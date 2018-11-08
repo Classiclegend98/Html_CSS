@@ -1,0 +1,14 @@
+body {
+  background-color: tan;
+  font-family: sans-serif;
+  margin-left: 10%;
+  text-align: center;
+  border: 3px solid green;
+
+}
+h1{
+  color: brown;
+}
+h2 {
+  color: green;
+}
