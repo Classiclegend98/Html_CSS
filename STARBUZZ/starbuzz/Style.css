@@ -1,17 +1,64 @@
 body {
-  background-color: tan;
+  background-color: #DEB887;
   font-family: sans-serif;
-  margin-left: 10%;
-  text-align: center;
+  font-size: 16px;
+  margin:  auto;
   border: 3px solid green;
-  margin: auto;
+  text-align: center;
+  }
+
+h1 {
+    font-size: 200%;
+  }
+
+h1, h2 {
+  font-family: cursive;
+  color: brown;
+  color: green;
 
 }
-h1, h2 {
-  font-family: sans-serif;
-  color: green;
+
+
+img {
+width:280px;
+height:250px;
+border-radius: 7px;
+}
+
+.product{
+  border-width: medium;
+  border-color: brown;
+  border-style: outset;
+  box-shadow: 2px 2px 0px black;
+}
+.gif{
+  width:250px;
+  height:150px;
+}
+.arrows{
+  width:50px;
+  height:50px;
+}
+
+#mission {
+  line-height: 1.6em;
+  border-style: solid;
+  border-width: thin;
+  padding: 1%;
+  margin: 2% 25% 0% 25%;
+  border-radius: 15px;
+  border-color: brown;
+  border-width: medium;
+}
+#home{
   color: brown;
 }
-.denumire {
-  color: red;
+#micro{
+  width:300px;
+  height:200px;
+}
+#tea{
+  border-width: medium;
+  border-color: green;
+  border-style: dotted;
 }
